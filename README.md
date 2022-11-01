@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Ruan Lucas</h1>
 <h3 align="center">A programming student from Brazil</h3>
 
-- 🌱 I’m currently learning **Development Front-end.**
+- 🌱 I’m currently learning **Development Web.**
 
 - 📫 How to reach me **ruan.trusted@gmail.com**
 
